@@ -1,4 +1,5 @@
 '''
+# https://github.com/rammyram/image_captioning/tree/master
 임베딩 : 고차원의 데이터를 저차원의 실수 벡터로 표현하는 기법으로, 모델에 비구조적인 데이터를 입력으로 제공하고 처리하는 데 사용
 hidden size : LSTM 모델의 숨겨진 상태(hidden state)의 크기. 하이퍼 파라미터.
 '''
